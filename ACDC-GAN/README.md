@@ -4,7 +4,7 @@ A tie-dye pattern generation method using ACDCGAN
 
 # Start
 
-* training model python avatar_train.py
+* training model python acdcgan.py
 
 # Results
 
